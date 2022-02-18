@@ -1,4 +1,4 @@
-/*INSERT INTO cliente (nombre, apellido, email, created_at) VALUES ('Andrés', 'Días', 'andias@gmail.com', '2018-01-01');
+INSERT INTO cliente (nombre, apellido, email, created_at) VALUES ('Andrés', 'Días', 'andias@gmail.com', '2018-01-01');
 INSERT INTO cliente (nombre, apellido, email, created_at) VALUES ('Mr. John', 'Doe', 'john.doe@gmail.com', '2018-01-02');
 INSERT INTO cliente (nombre, apellido, email, created_at) VALUES ('Linus', 'Torvalds', 'linus.torvalds@gmail.com', '2018-01-03');
 INSERT INTO cliente (nombre, apellido, email, created_at) VALUES ('Rasmus', 'Lerdorf', 'rasmus.lerdorf@gmail.com', '2018-01-04');
@@ -10,4 +10,3 @@ INSERT INTO cliente (nombre, apellido, email, created_at) VALUES ('Dr. James', '
 INSERT INTO cliente (nombre, apellido, email, created_at) VALUES ('Magma', 'Lee', 'magma.lee@gmail.com', '2018-03-04');
 INSERT INTO cliente (nombre, apellido, email, created_at) VALUES ('Tornado', 'Roe', 'tornado.roe@gmail.com', '2018-03-05');
 INSERT INTO cliente (nombre, apellido, email, created_at) VALUES ('Jane', 'Doe', 'jane.doe@gmail.com', '2018-03-06');
-*/
